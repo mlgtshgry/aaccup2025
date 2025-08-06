@@ -53,9 +53,9 @@ Each program folder includes:
 
 # Accreditation Checklist
 
-| # BEED             | # BSIT             | # BSCS             |
-|----------------------|----------------------|----------------------|
-| ### AVP              | ### AVP              | ### AVP              |
+| **BEED**            | **BSIT**            | **BSCS**            |
+|---------------------|---------------------|---------------------|
+| **AVP**             | **AVP**             | **AVP**             |
 | - [ ] Area I: Instruction                | - [ ] Area I: Instruction                | - [ ] Area I: Instruction                |
 | - [x] Area II: Extension                 | - [x] Area II: Extension                 | - [x] Area II: Extension                 |
 | - [ ] Area III: Research                 | - [ ] Area III: Research                 | - [ ] Area III: Research                 |
