@@ -51,10 +51,11 @@ Each program folder includes:
 - Area IX: Administration
 
 Checklist
-### BSIT
-- [x] Area I: Vision, Mission, Goals, and Objectives
-- [ ] Area II: Faculty
-- [ ] Area III: Curriculum and Instruction
+### BEED
+   ## AVP
+   - [x] Area I: Vision, Mission, Goals, and Objectives
+   - [ ] Area II: Faculty
+   - [ ] Area III: Curriculum and Instruction
 
 How to Use:
 1. Clone the repository:
