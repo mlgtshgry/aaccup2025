@@ -1,4 +1,4 @@
-Accreditation Website for [Your School Name]
+Accreditation Website for CVSU NAIC
 
 This is a web-based platform designed to showcase and support the accreditation process of three academic programs offered at [Your School Name]. The website serves as a digital repository of documents, reports, and evidences for assessors and stakeholders.
 
@@ -8,6 +8,8 @@ Programs Covered:
 3. Bachelor of Elementary Education (BEED)
 
 Repositories:
+IAB: https://drive.google.com/drive/folders/1UMsZGWneWrFgBZHFPaEhq5A-ybvcRGew?usp=sharing
+RAW: https://drive.google.com/drive/folders/1E240yoaOwOcax5trPZOmG9BHA0WEptsi?usp=sharing
 
 Features:
 - Program-specific navigation and content
