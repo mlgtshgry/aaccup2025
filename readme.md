@@ -51,13 +51,14 @@ Each program folder includes:
 - Area IX: Administration
 
 
-# Checklist
+# Checklist IAB
 
 - **BEED**
   - AVP
-    - [x] Area I: Vision, Mission, Goals, and Objectives  
-    - [ ] Area II: Faculty  
-    - [ ] Area III: Curriculum and Instruction
+    - [ ] Area I: Instruction 
+    - [X] Area II: Extension  
+    - [ ] Area III: Research
+    - [X] Area IV: Faculty Development
 
 
 
