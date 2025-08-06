@@ -51,35 +51,37 @@ Each program folder includes:
 - Area IX: Administration
 
 
-# Checklist IAB
+# Accreditation Checklist
 
-- ## BEED
-  - AVP
-    - [ ] Area I: Instruction 
-    - [X] Area II: Extension  
-    - [ ] Area III: Research
-    - [X] Area IV: Faculty Development
-  - COMPLIANCE REPORT
-    - [X] Area I: VMGO
-    - [X] Area II: Faculty
-    - [X] Area III: Curriculum and Instruction
-    - [X] Area IV: Support to Students
-    - [ ] Area V: 
-    - [X] Area VI: Extension and Community Services
-    - [X] Area VII: Library
-    - [ ] Area VIII: 
-    - [X] Area IX: Laboratories
-    - [X] Area X: VMGO
-  - NARRATIVE REPORT
-    - [ ] Area I: Instruction 
-    - [X] Area II: Extension  
-    - [ ] Area III: Research
-    - [X] Area IV: Faculty Development
-  - WORKING CHECKLIST
-    - [ ] Area I: Instruction 
-    - [ ] Area II: Extension  
-    - [ ] Area III: Research
-    - [ ] Area IV: Faculty Development
+| **BEED** | **BSIT** | **BSCS** |
+|---------|----------|----------|
+| **AVP** | **AVP** | **AVP** |
+| - [ ] Area I: Instruction | - [ ] Area I: Instruction | - [ ] Area I: Instruction |
+| - [x] Area II: Extension | - [x] Area II: Extension | - [x] Area II: Extension |
+| - [ ] Area III: Research | - [ ] Area III: Research | - [ ] Area III: Research |
+| - [x] Area IV: Faculty Development | - [x] Area IV: Faculty Development | - [x] Area IV: Faculty Development |
+| **COMPLIANCE REPORT** | **COMPLIANCE REPORT** | **COMPLIANCE REPORT** |
+| - [x] Area I: VMGO | - [x] Area I: VMGO | - [x] Area I: VMGO |
+| - [x] Area II: Faculty | - [x] Area II: Faculty | - [x] Area II: Faculty |
+| - [x] Area III: Curriculum and Instruction | - [x] Area III: Curriculum and Instruction | - [x] Area III: Curriculum and Instruction |
+| - [x] Area IV: Support to Students | - [x] Area IV: Support to Students | - [x] Area IV: Support to Students |
+| - [ ] Area V: | - [ ] Area V: | - [ ] Area V: |
+| - [x] Area VI: Extension and Community Services | - [x] Area VI: Extension and Community Services | - [x] Area VI: Extension and Community Services |
+| - [x] Area VII: Library | - [x] Area VII: Library | - [x] Area VII: Library |
+| - [ ] Area VIII: | - [ ] Area VIII: | - [ ] Area VIII: |
+| - [x] Area IX: Laboratories | - [x] Area IX: Laboratories | - [x] Area IX: Laboratories |
+| - [x] Area X: VMGO | - [x] Area X: VMGO | - [x] Area X: VMGO |
+| **NARRATIVE REPORT** | **NARRATIVE REPORT** | **NARRATIVE REPORT** |
+| - [ ] Area I: Instruction | - [ ] Area I: Instruction | - [ ] Area I: Instruction |
+| - [x] Area II: Extension | - [x] Area II: Extension | - [x] Area II: Extension |
+| - [ ] Area III: Research | - [ ] Area III: Research | - [ ] Area III: Research |
+| - [x] Area IV: Faculty Development | - [x] Area IV: Faculty Development | - [x] Area IV: Faculty Development |
+| **WORKING CHECKLIST** | **WORKING CHECKLIST** | **WORKING CHECKLIST** |
+| - [ ] Area I: Instruction | - [ ] Area I: Instruction | - [ ] Area I: Instruction |
+| - [ ] Area II: Extension | - [ ] Area II: Extension | - [ ] Area II: Extension |
+| - [ ] Area III: Research | - [ ] Area III: Research | - [ ] Area III: Research |
+| - [ ] Area IV: Faculty Development | - [ ] Area IV: Faculty Development | - [ ] Area IV: Faculty Development |
+
 
 
 
