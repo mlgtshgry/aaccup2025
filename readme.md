@@ -51,7 +51,7 @@ Each program folder includes:
 - Area IX: Administration
 
 Checklist
-### BEED
+# BEED
    ## AVP
    - [x] Area I: Vision, Mission, Goals, and Objectives
    - [ ] Area II: Faculty
