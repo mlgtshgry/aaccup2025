@@ -59,6 +59,8 @@ Each program folder includes:
     - [X] Area II: Extension  
     - [ ] Area III: Research
     - [X] Area IV: Faculty Development
+  - COMPLIANCE REPORT
+    - [ ] Area I: VMGO
 
 
 
