@@ -53,7 +53,7 @@ Each program folder includes:
 
 # Checklist IAB
 
-- **BEED**
+- ## BEED
   - AVP
     - [ ] Area I: Instruction 
     - [X] Area II: Extension  
