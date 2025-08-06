@@ -70,6 +70,16 @@ Each program folder includes:
     - [ ] Area VIII: 
     - [X] Area IX: Laboratories
     - [X] Area X: VMGO
+  - NARRATIVE REPORT
+    - [ ] Area I: Instruction 
+    - [X] Area II: Extension  
+    - [ ] Area III: Research
+    - [X] Area IV: Faculty Development
+  - WORKING CHECKLIST
+    - [ ] Area I: Instruction 
+    - [ ] Area II: Extension  
+    - [ ] Area III: Research
+    - [ ] Area IV: Faculty Development
 
 
 
