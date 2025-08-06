@@ -1,4 +1,4 @@
-#Accreditation Website for CVSU NAIC
+# Accreditation Website for CVSU NAIC
 
 This is a web-based platform designed to showcase and support the accreditation process of three academic programs offered at [Your School Name]. The website serves as a digital repository of documents, reports, and evidences for assessors and stakeholders.
 
