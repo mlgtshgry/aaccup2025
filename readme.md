@@ -60,7 +60,16 @@ Each program folder includes:
     - [ ] Area III: Research
     - [X] Area IV: Faculty Development
   - COMPLIANCE REPORT
-    - [ ] Area I: VMGO
+    - [X] Area I: VMGO
+    - [X] Area II: Faculty
+    - [X] Area III: Curriculum and Instruction
+    - [X] Area IV: Support to Students
+    - [ ] Area V: 
+    - [X] Area VI: Extension and Community Services
+    - [X] Area VII: Library
+    - [ ] Area VIII: 
+    - [X] Area IX: Laboratories
+    - [X] Area X: VMGO
 
 
 
