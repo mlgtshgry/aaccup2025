@@ -62,7 +62,7 @@
     padding: 50px 0; /* Optional: adds padding to your section */
   }
 
-  .accreditors{
+  .accreditors{s
     height:500px;
   }
 
@@ -80,7 +80,7 @@
 
 .bg-light {
     border: none; /* Remove any borders from the bg-light class */
-    box-shadow:  5px 10px #F7D317; /* Add shadow effect */
+    box-shadow:  5px 10px #fccfa6; /* CHANGE THIS COLOR */
     background-color: #f8f9fa; /* Light background color for contrast (optional) */
     border-radius: 0.5rem; /* Rounded corners (optional) */
 }
