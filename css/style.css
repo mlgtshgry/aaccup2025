@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #F7D317;
+    --primary: #f78318;
     --light: #0C3801;
     --dark: #2b2323;
 }
@@ -140,15 +140,16 @@
 }
 
 .title-font{
-    font-family: 'Bree Serif', serif; /* Applying the custom font */
+    font-family: 'Roboto Slab'; /* Applying the custom font */
+    font-weight: 800; /* Maximum boldness */
     color: #0C3801; /* Example style */
-    font-size: 50px !important; /* Adjust font size as needed */
+    font-size: 60px !important; /* Adjust font size as needed */
     text-shadow: 5px 5px 4px rgba(255, 210, 61, 0.308); /* Shadow effect */
 }
 .title-font-sidebar{
-    font-family: 'Bree Serif', serif; /* Applying the custom font */
+    font-family: 'Roboto Slab', serif; /* Applying the custom font */
     color: #ffffff; /* Example style */
-    font-size: 20px !important; /* Adjust font size as needed */
+    font-size: 21px !important; /* Adjust font size as needed */
     text-align: center;
 }
 
