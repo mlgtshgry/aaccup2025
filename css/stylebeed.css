@@ -31,7 +31,7 @@
 }
 
 .bgright{
-    background-image: url('../img/background.png'); /* Replace with your image URL */
+    background-image: url('../img/beedbackground.png'); /* Replace with your image URL */
     background-size: cover; /* This ensures the image covers the whole section */
     background-position: center center; /* This centers the image */
     /* background-attachment: fixed;  */
@@ -39,7 +39,7 @@
   }
 
   .bgleft{
-    background-image: url('../img/background1.png'); /* Replace with your image URL */
+    background-image: url('../img/beedbackground1.png'); /* Replace with your image URL */
     background-size: cover; /* This ensures the image covers the whole section */
     background-position: center center; /* This centers the image */
     /* background-attachment: fixed;  */
@@ -47,7 +47,7 @@
   }
 
   .copcbg{
-    background-image: url('../img/copcbg.png'); /* Replace with your image URL */
+    background-image: url('../img/beedcopcbg.png'); /* Replace with your image URL */
     background-size: cover; /* This ensures the image covers the whole section */
     background-position: center center; /* This centers the image */
     /* background-attachment: fixed;  */
@@ -55,9 +55,9 @@
   }
 
   .executivebg{
-    background-image: url('../img/executivebg.png'); /* Replace with your image URL */
+    background-image: url('../img/beedexecutivebg.png'); /* Replace with your image URL */
     background-size: cover; /* This ensures the image covers the whole section */
-    background-position: center center; /* This centers the image */
+    background-position: bottom center; /* This centers the image */
     /* background-attachment: fixed;  */
     padding: 50px 0; /* Optional: adds padding to your section */
   }
@@ -80,7 +80,7 @@
 
 .bg-light {
     border: none; /* Remove any borders from the bg-light class */
-    box-shadow:  5px 10px #fccfa6; /* CHANGE THIS COLOR */
+    box-shadow:  5px 10px #a6c1fc; /* CHANGE THIS COLOR */
     background-color: #f8f9fa; /* Light background color for contrast (optional) */
     border-radius: 0.5rem; /* Rounded corners (optional) */
 }
@@ -143,7 +143,7 @@
     font-family: 'Bree Serif', serif; /* Applying the custom font */
     color: #0C3801; /* Example style */
     font-size: 50px !important; /* Adjust font size as needed */
-    text-shadow: 5px 5px 4px rgba(255, 210, 61, 0.308); /* Shadow effect */
+    text-shadow: 5px 5px 4px rgba(61, 139, 255, 0.308); /* Shadow effect */
 }
 .title-font-sidebar{
     font-family: 'Bree Serif', serif; /* Applying the custom font */
