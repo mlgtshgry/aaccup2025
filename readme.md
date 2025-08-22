@@ -1,6 +1,6 @@
 # Accreditation Website for CVSU NAIC
 
-This is a web-based platform designed to showcase and support the accreditation process of three academic programs offered at [Your School Name]. The website serves as a digital repository of documents, reports, and evidences for assessors and stakeholders.
+This is a web-based platform designed to showcase and support the accreditation process of three academic programs offered at CvSU Naic. The website serves as a digital repository of documents, reports, and evidences for assessors and stakeholders.
 
 Programs Covered:
 1. Bachelor of Science in Business Administration (BSBA)
@@ -28,44 +28,13 @@ User Roles:
 - Coordinator – Uploads and manages program documents
 - Assessor – Views documents and submits evaluations
 
-Project Structure:
-/accreditation-website
-├── /bsit
-├── /bscs
-├── /bsis
-├── /assets
-│   ├── /css
-│   ├── /js
-│   └── /images
-├── /includes
-├── index.html
-├── login.php
-├── README.txt
 
-Accreditation Areas (Sample):
-Each program folder includes:
-- Area I: Vision, Mission, Goals, and Objectives
-- Area II: Faculty
-- Area III: Curriculum and Instruction
-- ...
-- Area IX: Administration
 
 
 # Accreditation Checklist
 https://docs.google.com/spreadsheets/d/14dwTxLGcVTrxyOHliUvt5lDFhlECJ2tKiEYmSdg0uQk/edit?usp=sharing
 
 
-
-
-How to Use:
-1. Clone the repository:
-   git clone https://github.com/yourusername/accreditation-website.git
-
-2. Set up your local development environment.
-
-3. Configure database settings in /includes/db.php
-
-4. Run the server and access index.html
 
 Contributing:
 We welcome contributions! To contribute:
