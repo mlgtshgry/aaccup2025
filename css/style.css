@@ -5,6 +5,26 @@
     --dark: #2b2323;
 }
 
+.animation-card {
+  opacity: 0;
+  transform: translateY(50px);
+}
+
+.square-card {
+  width: 30%; /* or any % you want depending on how many cards per row */
+  aspect-ratio: 1 / 1; /* ensures height = width */
+  flex-shrink: 0; /* prevents shrinking too much */
+}
+
+.square-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px; /* optional, keeps rounded corners */
+}
+
+
+    
 .scroll-down-indicator {
   position: absolute;
   bottom: 80px;
@@ -394,6 +414,9 @@
     .content .navbar .navbar-nav .nav-link {
         margin-left: 15px;
     }
+    .square-card {
+    width: 90%; /* 1 card per row on mobile */
+  }
 }
 
 
